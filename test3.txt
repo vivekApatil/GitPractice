@@ -1,1 +1,2 @@
 This is Text3 file
+new bug resolve
