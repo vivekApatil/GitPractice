@@ -1,1 +1,2 @@
 this test4 file
+new bug fixed
